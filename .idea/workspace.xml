@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4ccbcbc-9c8d-464d-a80b-acd4454f32a9" name="Changes" comment="" />
+    <list default="true" id="f4ccbcbc-9c8d-464d-a80b-acd4454f32a9" name="Changes" comment="ii" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +46,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gital\PycharmProjects\ReactIdbackFront" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,11 +67,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741019507411</updated>
-      <workItem from="1741019508622" duration="445000" />
+      <workItem from="1741019508622" duration="929000" />
     </task>
+    <task id="LOCAL-00001" summary="ii">
+      <option name="closed" value="true" />
+      <created>1741020176915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741020176915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ii" />
+    <option name="LAST_COMMIT_MESSAGE" value="ii" />
   </component>
 </project>
