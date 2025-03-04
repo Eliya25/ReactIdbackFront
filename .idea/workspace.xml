@@ -4,34 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4ccbcbc-9c8d-464d-a80b-acd4454f32a9" name="Changes" comment="update">
+    <list default="true" id="f4ccbcbc-9c8d-464d-a80b-acd4454f32a9" name="Changes" comment="update1">
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/pages/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/pages/Register.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Eliya25"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Eliya25&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Eliya25/ReactIdbackFront.git",
-    "accountId": "c3527771-8044-4166-a2cb-1747650405a4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Eliya25/ReactIdbackFront.git&quot;,
+    &quot;accountId&quot;: &quot;c3527771-8044-4166-a2cb-1747650405a4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2toXfldIkiQ1773Kpv36C5HkYvs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +68,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,7 +99,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741019507411</updated>
-      <workItem from="1741019508622" duration="3814000" />
+      <workItem from="1741019508622" duration="4737000" />
+      <workItem from="1741085232599" duration="3149000" />
     </task>
     <task id="LOCAL-00001" summary="ii">
       <option name="closed" value="true" />
@@ -87,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741020740542</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update1">
+      <option name="closed" value="true" />
+      <created>1741023389898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741023389898</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ii" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update1" />
   </component>
 </project>
