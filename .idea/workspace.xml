@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4ccbcbc-9c8d-464d-a80b-acd4454f32a9" name="Changes" comment="update1">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/pages/LoginPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/pages/Register.jsx" afterDir="false" />
+    <list default="true" id="f4ccbcbc-9c8d-464d-a80b-acd4454f32a9" name="Changes" comment="Eliya1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/frontend/my-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741019507411</updated>
       <workItem from="1741019508622" duration="4737000" />
-      <workItem from="1741085232599" duration="3149000" />
+      <workItem from="1741085232599" duration="6193000" />
     </task>
     <task id="LOCAL-00001" summary="ii">
       <option name="closed" value="true" />
@@ -126,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741023389898</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Eliya1">
+      <option name="closed" value="true" />
+      <created>1741088447357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741088447357</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +125,7 @@
     <MESSAGE value="ii" />
     <MESSAGE value="update" />
     <MESSAGE value="update1" />
-    <option name="LAST_COMMIT_MESSAGE" value="update1" />
+    <MESSAGE value="Eliya1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eliya1" />
   </component>
 </project>
