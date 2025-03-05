@@ -20,3 +20,5 @@ class RegisterUserView(CreateAPIView):
 @role_required('admin')
 def admin_only_view(request):
     return JsonResponse({'message': 'Welcome, admin!'})
+
+#jfbjbjfjb
