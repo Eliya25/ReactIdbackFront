@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4ccbcbc-9c8d-464d-a80b-acd4454f32a9" name="Changes" comment="Eliya23">
-      <change afterPath="$PROJECT_DIR$/backend/users/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/users/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/users/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/users/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="f4ccbcbc-9c8d-464d-a80b-acd4454f32a9" name="Changes" comment="Eliya234" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741019507411</updated>
       <workItem from="1741019508622" duration="4737000" />
-      <workItem from="1741085232599" duration="17533000" />
+      <workItem from="1741085232599" duration="17595000" />
     </task>
     <task id="LOCAL-00001" summary="ii">
       <option name="closed" value="true" />
@@ -139,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741104163852</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Eliya234">
+      <option name="closed" value="true" />
+      <created>1741178573116</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741178573116</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +150,7 @@
     <MESSAGE value="Eliya1" />
     <MESSAGE value="Eliya2" />
     <MESSAGE value="Eliya23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eliya23" />
+    <MESSAGE value="Eliya234" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eliya234" />
   </component>
 </project>
